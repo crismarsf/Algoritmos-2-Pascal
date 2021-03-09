@@ -1,4 +1,4 @@
-# Algoritmos 2
+# Algoritmos 2 - Pascal
 Array de registros
 
 Este programa ha sido creado utilizando el editor de código Sublime Text 3 (ST3) de uso gratuito para temas educativos, compilado en cmd en Windows 10 y utilizando el compilador en línea de https://www.onlinegdb.com/online_pascal_compiler.
